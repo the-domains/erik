@@ -1,0 +1,28 @@
+name: erik
+favicon: null
+layout_spectrum: 0.3449192065745592
+typography_spectrum: 0.9147876598872244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5722046792507172
+  lightness: 0.10043198964558542
+  saturation: 0.6956036759074777
+  rhythmicContrast: 0.7392061504069716
+purpose: []
